@@ -1,0 +1,130 @@
+body {
+    background-color:black;
+}
+.Avengerimg{
+    width:200px;
+    float:right;
+    margin-right:20px;
+
+    }
+.Snapchatimg{
+     width:300px;
+     float:right;
+     margin-right:20px;
+     margin-top:10px;
+    }
+.Fortniteimg{
+     width:200px;
+     float:right;
+     margin-right:20px;
+    }
+.TrippieRedTopimg{
+    width:200px;
+    float:right;
+    margin-right:20px;
+    }
+.h2align{
+    text-align:center;
+    }
+.three{
+    width:350px;
+    float:right;
+    padding-right:20px;
+    }
+.four{
+    color:purple;
+    }
+.five{
+    width:500px;
+    height:250px;
+    margin-left:200px;
+    margin-top:10px;
+    }
+.seven{
+    color:red;
+    }
+
+.nine{
+    color:black;
+    }
+#one{
+    background-color:red;
+    box-shadow:0px 0px 0px 5px black inset;
+    }
+#two {
+    background-color:#0073e6;
+    box-shadow:0px 0px 0px 5px black inset;
+    }
+#three {
+    background-color:Green;
+    box-shadow:0px 0px 0px 5px black inset;
+    }
+#four{
+    Background-color:gold;
+     box-shadow:0px 0px 0px 5px black inset;
+    }
+.div{
+    margin:auto;
+    background-color:Black;   
+    border-Top:solid Green 10px;
+    border-Bottom:solid gold 10px;
+    border-Left:solid  Red 10px;
+    border-Right:solid  #0073e6 10px;
+}
+.column {
+    float: left;
+    width: 50%;
+    height:1100px;
+    
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+    }
+.content {
+    max-width: 800px;
+    margin: auto;
+}
+
+ul{
+    text-align:Left;
+    color:white;
+    font-family: 'K2D', sans-serif;
+    }
+
+h1{
+    color:white;
+    font-family: 'Titillium Web', sans-serif;
+    text-align:center;
+    }
+h2{
+    color:white;
+    font-family: 'K2D', sans-serif;
+    text-align:center;
+    }
+h3{
+    color:black;
+    font-family: 'K2Dly', sans-serif;
+    margin-left:20px;
+    }
+p{
+    color:black;
+    font-family: 'KoHo', sans-serif;
+    padding-left:20px;
+    
+    }
+ul{
+    list-style: square ;
+    }
+a {
+    color:gold;
+    }
+    
